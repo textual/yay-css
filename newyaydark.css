@@ -44,9 +44,9 @@
   --color-link-underline: rgba(227, 227, 227, 0.15);
 
   /* â”€â”€ Page Background â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
-  --color-page-bg: lime;
+  --color-page-bg: #333333;
   /* â”€â”€ Surface Colors â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
-  --color-surface: dodgerblue; /* #424242; */
+  --color-surface: #424242;
   --color-surface-light: #f2f2f2;
   --color-surface-off: transparent;
   --color-surface-faint: #505050;
